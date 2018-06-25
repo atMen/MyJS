@@ -1,0 +1,7 @@
+#Mon May 07 22:49:08 CST 2018
+base.0=E\:\\BeiJingNews\\MyJS\\androidJavaAndJsDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2f62e22f35e7b87ae0a71fa8cb0e8b08c3e4e737
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\BeiJingNews\\MyJS\\androidJavaAndJsDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_cdf08f22c234ca394780def9bf589a4803b557f4\\classes.dex
+base.1=E\:\\BeiJingNews\\MyJS\\androidJavaAndJsDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_cdf08f22c234ca394780def9bf589a4803b557f4
+file.0=E\:\\BeiJingNews\\MyJS\\androidJavaAndJsDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2f62e22f35e7b87ae0a71fa8cb0e8b08c3e4e737\\classes.dex
